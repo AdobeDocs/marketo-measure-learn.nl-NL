@@ -1,12 +1,12 @@
 ---
 title: Inleiding tot [!DNL Marketo Measure] Discover
 description: Bekijk een overzicht op hoog niveau van Discover en de verschillende borden. In deze les leert u veel over veelgebruikte rapporteringsgevallen voor verschillende Discover-dashboards en -tegels.
-kt: 11230
+jira: KT-11230
 thumbnail: 347206.jpeg
 exl-id: 79595d44-4c68-471e-9df5-aa0c677761b6
-source-git-commit: 9e38b740e29a827d5d64ef4e7fbf9e18dcf30643
+source-git-commit: b60003c6fa73401ca980a46ae47be00a1bb457ae
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
