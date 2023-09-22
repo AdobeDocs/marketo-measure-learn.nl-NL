@@ -5,9 +5,9 @@ jira: KT-11230
 thumbnail: 347206.jpeg
 exl-id: 79595d44-4c68-471e-9df5-aa0c677761b6
 feature: Discover
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Bekijk een overzicht op hoog niveau van [!UICONTROL Discover] en de verschillende raden van bestuur. In deze les leert u veel over veelgebruikte rapporteringsgevallen voor verschillende Discover-dashboards en -tegels.
 
->[!VIDEO](https://video.tv.adobe.com/v/347206/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347206/?learn=on){transcript=true}
