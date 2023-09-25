@@ -2,10 +2,11 @@
 user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
 user-guide-description: Leer hoe u het beste kunt halen uit [!DNL Adobe Marketo Measure] (voorheen, [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] fundamentals en definities.
-source-git-commit: 544bb31ce388b2952c98bb34622b1a6bbeca5d99
+auto-video-transcripts: true
+source-git-commit: 88f70953a105ff0feddda60bed11449a219c824b
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -38,7 +39,7 @@ ht-degree: 2%
       + [Attributiemodellen](/help/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102{#marketo-measure-102}
       + [De [!DNL Marketo Measure] ROI-dashboards](/help/onboarding/marketo-measure-102/roi-dashboards.md)
-      + [Stock Salesforce-rapporten](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
+      + [Stock Salesforce](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [Aanvullende Salesforce-rapporten](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
    + [!DNL Marketo Measure] en Salesforce{#marketo-measure-salesforce}
@@ -56,7 +57,7 @@ ht-degree: 2%
 + Definities{#definitions}
    + Aanraakpunten{#touchpoints}
       + [Wat is een aanraakpunt?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
-      + [Mijlpalen](/help/definitions/touchpoints/milestone-touchpoints.md)
+      + [Mijlpunt-aanraakpunten](/help/definitions/touchpoints/milestone-touchpoints.md)
       + [Aanraakpuntcomponenten](/help/definitions/touchpoints/touchpoint-components.md)
       + [Online en offline aanraakpunten](/help/definitions/touchpoints/online-offline-touchpoints.md)
    + Attributie{#attribution}
@@ -81,10 +82,10 @@ ht-degree: 2%
       + [Geïntegreerde platforms aansluiten met [!DNL Marketo Measure]](/help/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [Anatomie van een UTM-parameter](/help/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
       + [UTM-best practices](/help/definitions/utm-parameters/utm-best-practices.md)
-      + [UTM-parametergereedschappen voor automatische labeling](/help/definitions/utm-parameters/utm-parameter-auto-tagging-tools.md)
+      + [UTM-parametergereedschappen voor automatische tags](/help/definitions/utm-parameters/utm-parameter-auto-tagging-tools.md)
       + [UTM-tags](/help/definitions/utm-parameters/utm-tagging.md)
    + Op account gebaseerde marketing{#account-based-marketing}
-      + [[!UICONTROL Account Based Marketing] overzicht](/help/definitions/account-based-marketing/abm-overview.md)
+      + [[!UICONTROL Account Based Marketing]-overzicht](/help/definitions/account-based-marketing/abm-overview.md)
       + [[!UICONTROL Accounts by Engagement Score]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
       + [[!UICONTROL Accounts with Leads and Contacts] verslag](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
       + [[!UICONTROL Touchpoints per Account] verslag](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
