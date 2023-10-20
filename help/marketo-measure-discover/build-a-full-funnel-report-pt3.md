@@ -1,6 +1,6 @@
 ---
 title: Rapportage van personeel vaststellen (PT.3)
-description: Deze video zal door een top van de schoorsteenrapport lopen die u zal tonen als, Marketo Measure het volgen, of u lood produceert, en of uw opstelling van het Kanaal correct is gedaan.
+description: Krijg een analyse van een top-of-funnel rapport, dat toont u als Marketo Measure volgt, of u lood produceert, en als uw Kanaal correct opstelling is.
 feature-set: Marketo Measure
 feature: Discover, Reporting
 role: User
@@ -9,16 +9,16 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-22T00:00:00Z
 jira: KT-14019
 thumbnail: 3424434.jpeg
-source-git-commit: 10b20c84e967a1b20eab47479634617cd07d6a74
+exl-id: c7d1b47c-2331-47db-af07-a259cab15fad
+source-git-commit: ee8dd3c468dc6b2b73be48740f6f60079590c527
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-
 # Rapportage van treinen detecteren
 
-Deze video zal door een top van de schoorsteenrapport lopen die u zal tonen als, Marketo Measure het volgen, of u lood produceert, en of uw opstelling van het Kanaal correct is gedaan.
+Deze video verstrekt een analyse van een top-of-funnel rapport, dat toont u als Marketo Measure volgt, of u lood produceert, en als uw Kanaal correct opstelling is.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
