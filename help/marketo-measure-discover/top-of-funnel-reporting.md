@@ -1,24 +1,24 @@
 ---
 title: Bepalen welk kanaal wordt uitgevoerd (Pt.1)
-description: Dit verslag richt zich op het eerste tot middelste deel van de marketingtrechter. Zodra het rapport is opgesteld, zult u kunnen zien welke kanalen het meeste aantal kansen produceren, zodat kunt u beurtelings in die marketing kanalen investeren.
+description: Deze video zal door een top van de schoorsteenrapport lopen die u zal tonen als, Marketo Measure het volgen, of u lood produceert, en of uw opstelling van het Kanaal correct is gedaan.
 feature-set: Marketo Measure
 feature: Discover, Reporting
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-09-22T00:00:00Z
-jira: KT-14021
-thumbnail: 3424433.jpeg
-source-git-commit: b68f8979f1ef338856f280552297adef528b74f4
+last-substantial-update: 2023-10-24T00:00:00Z
+jira: KT-14019
+thumbnail: 3424434.jpeg
+source-git-commit: 33afe1c783cb8db607a6122752359aa7b287cba4
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
 
-# Bepalen welk kanaal wordt uitgevoerd
+# Boven aan treinen rapporteren
 
-Dit verslag richt zich op het eerste tot middelste deel van de marketingtrechter. Zodra het rapport is opgesteld, zult u kunnen zien welke kanalen het meeste aantal kansen produceren, zodat kunt u beurtelings in die marketing kanalen investeren.
+Deze video zal door een top van de schoorsteenrapport lopen die u zal tonen als, Marketo Measure het volgen, of u lood produceert, en of uw opstelling van het Kanaal correct is gedaan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424433/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
