@@ -3,9 +3,9 @@ user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
 user-guide-description: Leer hoe u het beste kunt halen uit [!DNL Adobe Marketo Measure] (voorheen, [!DNL Bizible]). Bekijk tutorials over installatie, onboarding,  basisprincipes en definities.
 auto-video-transcripts: true
-source-git-commit: 9cdab15d9c976c6160ca367dedc458fb388a2c83
+source-git-commit: 2ba22dad2b35ddcc106c0afa89253669b9ad5291
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '313'
 ht-degree: 5%
 
 ---
@@ -66,6 +66,9 @@ ht-degree: 5%
       + [Activiteitentoewijzing](/help/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure] Discover{#marketo-measure-discover}
    + [Inleiding tot [!DNL Marketo Measure] Discover](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
+   + [Overzichtdashboard detecteren](/help/marketo-measure-discover/2023-discover-overview-dashboard.md)
+   + [Ontdek toegerekende inkomsten](/help/marketo-measure-discover/2023-discover-attributed-revenue.md)
+   + [ROI-dashboard detecteren](/help/marketo-measure-discover/2023-discover-roi-dashboard.md)
    + [Bepalen welk kanaal wordt uitgevoerd (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [Bepalen welk kanaal wordt uitgevoerd (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [Rapportage van personeel vaststellen (PT.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
