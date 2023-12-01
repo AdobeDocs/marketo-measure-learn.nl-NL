@@ -3,9 +3,9 @@ user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
 user-guide-description: Leer hoe u het beste kunt halen uit  [!DNL Adobe Marketo Measure]  (voorheen, [!DNL Bizible]). Bekijk tutorials over installatie, onboarding, basisprincipes en definities.
 auto-video-transcripts: true
-source-git-commit: 2ba22dad2b35ddcc106c0afa89253669b9ad5291
+source-git-commit: bde41ed650e57bf84955d8d895e44699d9b48442
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '325'
 ht-degree: 7%
 
 ---
@@ -72,6 +72,8 @@ ht-degree: 7%
    + [Bepalen welk kanaal wordt uitgevoerd (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [Bepalen welk kanaal wordt uitgevoerd (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [Rapportage van personeel vaststellen (PT.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
++ [!DNL Marketo Measure] Live Chat {#live-chat}
+   + [Marketingkenmerk en cijfers](/help/_assets/marketing attributie en metrics.md)
 + Definities{#definitions}
    + Aanraakpunten{#touchpoints}
       + [Wat is een aanraakpunt?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
