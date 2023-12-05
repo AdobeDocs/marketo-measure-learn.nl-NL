@@ -1,12 +1,12 @@
 ---
 user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
-user-guide-description: Leer hoe u het beste kunt halen uit  [!DNL Adobe Marketo Measure]  (voorheen, [!DNL Bizible]). Bekijk tutorials over installatie, onboarding, basisprincipes en definities.
+user-guide-description: Leer hoe u het beste kunt halen uit [!DNL Adobe Marketo Measure] (voorheen, [!DNL Bizible]). Bekijk tutorials over installatie, onboarding, basisprincipes en definities.
 auto-video-transcripts: true
-source-git-commit: bde41ed650e57bf84955d8d895e44699d9b48442
+source-git-commit: beed01aaeb638853c082ecedb2c5b31e5d06fbe4
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 7%
+source-wordcount: '319'
+ht-degree: 3%
 
 ---
 
@@ -72,8 +72,6 @@ ht-degree: 7%
    + [Bepalen welk kanaal wordt uitgevoerd (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [Bepalen welk kanaal wordt uitgevoerd (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [Rapportage van personeel vaststellen (PT.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
-+ [!DNL Marketo Measure] Live Chat {#live-chat}
-   + [Marketingkenmerk en cijfers](/help/_assets/marketing attributie en metrics.md)
 + Definities{#definitions}
    + Aanraakpunten{#touchpoints}
       + [Wat is een aanraakpunt?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
@@ -112,3 +110,5 @@ ht-degree: 7%
    + Boemerang Stage{#boomerang-stage}
       + [Inleiding tot boemerang-stadia](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [Boemerangstadia instellen](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
++ Evangelist praat {#evangelist}
+   + [Marketingkenmerk en maatstaven](/help/evangelist-talks/attribution-and-metrics.md)
