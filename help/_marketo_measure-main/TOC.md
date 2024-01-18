@@ -3,9 +3,9 @@ user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
 user-guide-description: Leer hoe u het beste kunt halen uit [!DNL Adobe Marketo Measure] (voorheen, [!DNL Bizible]). Bekijk tutorials over installatie, onboarding, basisprincipes en definities.
 auto-video-transcripts: true
-source-git-commit: beed01aaeb638853c082ecedb2c5b31e5d06fbe4
+source-git-commit: 9eefc4c2fdbbd031a7c0a8ba0a6bcc892cd11771
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '322'
 ht-degree: 3%
 
 ---
@@ -112,3 +112,4 @@ ht-degree: 3%
       + [Boemerangstadia instellen](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
 + Evangelist praat {#evangelist}
    + [Marketingkenmerk en maatstaven](/help/evangelist-talks/attribution-and-metrics.md)
+   + [Looptijd marketingtoewijzing](/help/evangelist-talks/marketing-attribution-maturity.md)
