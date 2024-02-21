@@ -4,9 +4,9 @@ recommendations: noDisplay, noCatalog
 description: Haal het meeste uit [!DNL Adobe Marketo Measure] (voorheen bekend als [!DNL Bizible]), de toonaangevende B2B-marketingtoewijzingsapp.
 doc-type: overview-page
 exl-id: 83dae370-8ffd-4715-b72e-4e232f1bf31d
-source-git-commit: a34e4d1cb271feb3e8c5d694357a9502acfa18a2
+source-git-commit: 0c633d113083b0cfa6c834645e7fd8c444d25ad1
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,6 @@ Haal het meeste uit [!DNL Adobe Marketo Measure] (voorheen bekend als [!DNL Bizi
 
 Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en mogelijkheden van Marketo Measure.
 
-<div id="whats-new-section">
-
-## Nieuwe functies
-
-* **[Een volledig rapport met trechter maken](https://experienceleague.adobe.com/docs/marketo-measure-learn/tutorials/marketo-measure-discover/build-a-full-funnel-report-pt3.html)**
-  *In dit verslag kijken we naar een volledig verslag van de trechter. Dit rapport Discover zal van begin tot eind volgen welke kanalen betrokken waren en dan kansen en/of opbrengst aan die kanalen toeschrijven.*
-
-</div>   
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
 <div id="recs-overview-body-3"></div>
