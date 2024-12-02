@@ -1,6 +1,6 @@
 ---
-user-guide-title: "[!DNL Marketo Measure] Tutorials"
-breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
+user-guide-title: '[!DNL Marketo Measure] Tutorials'
+breadcrumb-title: '[!DNL Marketo Measure] Tutorials'
 user-guide-description: Leer hoe te om het meeste uit  [!DNL Adobe Marketo Measure]  (vroeger,  [!DNL Bizible]) te krijgen. Bekijk tutorials over installatie, onboarding, basisprincipes en definities.
 auto-video-transcripts: true
 source-git-commit: 22c78a311d3a9509fb85f6b203c2154c6124c259

@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Marketo Measure] Attribuut Touchpoint Object"
-description: Meer informatie over [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoints].
+title: '[!DNL Marketo Measure] Object AttributionTouchpoint'
+description: Meer informatie over  [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoints].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,13 +11,13 @@ exl-id: 272bc6aa-71db-4b9c-b93a-d0b1030609c4
 feature: CRM Objects
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '10'
+source-wordcount: '8'
 ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoint] object
+# [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoint] -object
 
-Meer informatie over [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoints].
+Meer informatie over [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoints] .
 
 >[!VIDEO](https://video.tv.adobe.com/v/347224/?learn=on){transcript=true}
