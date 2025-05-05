@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Deze video biedt een diepgaande uitleg van het U-vormige model.
 
->[!VIDEO](https://video.tv.adobe.com/v/347214/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432083/?learn=on&captions=dut){transcript=true}

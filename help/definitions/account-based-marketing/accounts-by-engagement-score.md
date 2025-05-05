@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Een overzicht op hoog niveau van de [!UICONTROL Account by Engagement Score].  Deze zelfstudie bespreekt welke metriek in deze score gaat en het rapport verbonden aan het.
 
->[!VIDEO](https://video.tv.adobe.com/v/347248/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432125/?learn=on&captions=dut){transcript=true}

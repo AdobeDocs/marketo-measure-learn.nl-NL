@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Het Dashboard van ROI voorziet marketers van een korrelige mening van rendementen op investering over kanalen, subkanalen, en campagnes. Het schort zorgvuldig kosten en opbrengstpatronen, terwijl ook het belichten van metriek zoals kosten-per-lood, overeenkomst, en kans, die een uitvoerig inzicht van marketing attributie verzekeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425023/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449470/?learn=on&captions=dut){transcript=true}

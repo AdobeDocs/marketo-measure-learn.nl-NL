@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Kijk naar de eerste les in de Boommeren-cursus. Meer informatie over instellen [!UICONTROL Boomerang Stages] in [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347229/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431581/?learn=on&captions=dut){transcript=true}

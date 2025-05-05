@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In dit verslag kijken we naar het volledige verslag van de trechter. Dit rapport Discover zal van begin tot eind volgen welke kanalen betrokken waren en dan kansen en/of opbrengst aan die kanalen toeschrijven.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424432/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443757/?learn=on&captions=dut){transcript=true}

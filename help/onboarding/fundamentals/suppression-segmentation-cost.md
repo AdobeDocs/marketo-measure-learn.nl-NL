@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Een overzicht van de onderdrukking, segmentering en kosten van Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424418/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453230/?learn=on&captions=dut){transcript=true}

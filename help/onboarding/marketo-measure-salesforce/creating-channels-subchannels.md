@@ -20,4 +20,4 @@ ht-degree: 0%
 
 In deze les wordt uitgelegd hoe u hiërarchieën en namen van kanalen en subkanalen kunt maken en onderhouden in [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347244/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431563/?learn=on&captions=dut){transcript=true}

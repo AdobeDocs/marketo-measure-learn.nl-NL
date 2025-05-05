@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Andy Schneider, Adobe Solutions Consultant, en Ian Michels, Adobe Marketo-expert, bespreken het verschil tussen marketingtoeschrijving en marketingmaatstaven. Er zijn software op de markt die aangeeft dat ze wel toeschrijven, maar in werkelijkheid rapporteren ze over marketingcijfers. In deze discussie leert u welke vragen u tijdens het verkoopproces moet stellen, hoe u kunt ontcijferen welke software marketingkenmerk of metrische specifieke kenmerken heeft en hoe u de behoeften voor uw marketingtoewijzing kunt schalen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425898/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455505/?learn=on&captions=dut)
 
 ## Belangrijkste punten van de discussie
 

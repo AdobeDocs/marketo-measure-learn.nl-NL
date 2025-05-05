@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Deze video biedt een diepgaande uitleg van het volledige padmodel.
 
->[!VIDEO](https://video.tv.adobe.com/v/347232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432037/?learn=on&captions=dut){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Deze les vat samen [!DNL Marketo Measure]Belangrijke functies en waarde voor Content Marketing-teams.
 
->[!VIDEO](https://video.tv.adobe.com/v/347176/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431575/?learn=on&captions=dut){transcript=true}

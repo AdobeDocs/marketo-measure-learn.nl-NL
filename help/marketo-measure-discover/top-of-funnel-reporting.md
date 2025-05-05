@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Deze video zal door een top van de schoorsteenrapport lopen die u zal tonen als, Marketo Measure het volgen, of u lood produceert, en of uw opstelling van het Kanaal correct is gedaan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441786/?learn=on&captions=dut){transcript=true}

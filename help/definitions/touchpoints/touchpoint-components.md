@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Ontdek de verschillende componenten van aanraakpunten en hoe deze worden gedefinieerd. In dit voorbeeld worden componenten van zowel BT&#39;s als BBT&#39;s afgebroken.
 
->[!VIDEO](https://video.tv.adobe.com/v/347213/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437618/?learn=on&captions=dut){transcript=true}

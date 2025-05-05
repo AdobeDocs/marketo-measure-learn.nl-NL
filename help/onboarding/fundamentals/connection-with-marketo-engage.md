@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Overzicht van verbonden Marketo Measure met Marketo Engage
 
->[!VIDEO](https://video.tv.adobe.com/v/3424426/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449382/?learn=on&captions=dut){transcript=true}

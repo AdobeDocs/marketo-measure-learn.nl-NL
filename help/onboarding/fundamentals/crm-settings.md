@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Een beoordeling van de CRM-instelling in Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424429/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451744/?learn=on&captions=dut){transcript=true}

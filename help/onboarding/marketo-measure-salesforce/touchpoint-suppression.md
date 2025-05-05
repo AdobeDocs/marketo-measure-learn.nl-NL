@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Deze les behandelt hoe te om de regels van de onderdrukking van aanraakpunten in Salesforce CRM en gemeenschappelijke redenen te plaatsen waarom u dit zou doen.
 
->[!VIDEO](https://video.tv.adobe.com/v/347188/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432018/?learn=on&captions=dut){transcript=true}

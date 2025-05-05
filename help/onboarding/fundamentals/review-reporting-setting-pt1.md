@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Overzicht van de rapportinstellingen in Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424431/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453714/?learn=on&captions=dut){transcript=true}

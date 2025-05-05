@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u de [!DNL Marketo Measure] en om advertentieplatforms aan te sluiten (productieexemplaar).
 
->[!VIDEO](https://video.tv.adobe.com/v/347196/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431536/?learn=on&captions=dut){transcript=true}

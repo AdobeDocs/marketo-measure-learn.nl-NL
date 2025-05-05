@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u machtigingssets kunt wijzigen in [!DNL Marketo Measure] (productie-instantie).
 
->[!VIDEO](https://video.tv.adobe.com/v/347189/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431525/?learn=on&captions=dut){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Deze video bevat een diepgaande uitleg van het Eerste aanraakmodel.
 
->[!VIDEO](https://video.tv.adobe.com/v/347216/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432102/?learn=on&captions=dut){transcript=true}

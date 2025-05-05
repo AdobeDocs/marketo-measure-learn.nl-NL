@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Overzicht van de instellingen voor Kanaal en Integratie in Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424430/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452377/?learn=on&captions=dut){transcript=true}

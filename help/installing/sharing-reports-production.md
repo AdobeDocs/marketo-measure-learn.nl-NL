@@ -20,4 +20,4 @@ ht-degree: 0%
 
 In deze les worden rapporten en dashboards weergegeven en gedeeld.
 
->[!VIDEO](https://video.tv.adobe.com/v/347184/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431542/?learn=on&captions=dut){transcript=true}

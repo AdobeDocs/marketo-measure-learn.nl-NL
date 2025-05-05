@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Het dashboard van het Overzicht van Ontvangsten verstrekt inzicht in de totale opbrengst die uit uw CRM wordt afgeleid, die licht op uw marketing strategieën&#39; werpt. Het biedt een overzicht van hoe marketing uw algemene opbrengst beïnvloedt en tot de succesvolle sluiting van overeenkomsten bijdraagt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425025/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446359/?learn=on&captions=dut){transcript=true}

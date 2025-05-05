@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Deze video bevat een diepgaande uitleg van het Aanmaakmodel voor lead.
 
->[!VIDEO](https://video.tv.adobe.com/v/347227/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432090/?learn=on&captions=dut){transcript=true}
