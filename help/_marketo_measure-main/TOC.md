@@ -119,4 +119,4 @@ ht-degree: 4%
    + [Looptijd marketingtoewijzing](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [Toekenning en gegevenssilo&#39;s van marketing](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
 + Experience League Live-opnamen{#experience-league-live-recordings}
-   + [&#x200B; Marketo Measure Nieuwe ontdekt dashboards &#x200B;](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
+   + [&#x200B; Marketo Measure Nieuwe ontdekt dashboards &#x200B;](https://experienceleague.adobe.com/nl/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
