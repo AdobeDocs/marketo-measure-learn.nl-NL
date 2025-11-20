@@ -1,6 +1,6 @@
 ---
 title: Installatie (productie-instantie)
-description: Meer informatie over het installeren van een productie-instantie van  [!DNL Marketo Measure].
+description: Leer over het installeren van een productie-instantie van  [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,12 +11,12 @@ exl-id: c868532d-b6f9-4236-b431-d614189a9749
 feature: Installation
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '22'
-ht-degree: 63%
+source-wordcount: '20'
+ht-degree: 35%
 
 ---
 
-# [!DNL Marketo Measure] installatie (productie-instantie)
+# [!DNL Marketo Measure] installation (productie-instantie)
 
 Meer informatie over het installeren van een productie-instantie van [!DNL Marketo Measure].
 

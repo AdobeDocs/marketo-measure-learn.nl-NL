@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 22c78a311d3a9509fb85f6b203c2154c6124c259
 workflow-type: tm+mt
 source-wordcount: '350'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 3%
    + [Rapporten en dashboards delen en verbergen](/help/installing/sharing-reports-production.md)
    + [Creeer de  [!DNL Marketo Measure]  rekening](/help/installing/creating-marketo-measure-account-production.md)
 + Onboarding {#onboarding}
-   + Aanbevolen werkwijzen {#best-practices}
+   + Aanbevolen procedures {#best-practices}
       + [Rapportinstellingen controleren (PT.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
       + [Kanaal- en integratie-instellingen controleren (PT.2)](/help/onboarding/fundamentals/channel-integration-settings.md)
       + [CRM-instellingen (PT.3)](/help/onboarding/fundamentals/crm-settings.md)
@@ -51,18 +51,18 @@ ht-degree: 3%
       + [Aanraakpunten](/help/onboarding/marketo-measure-101/touchpoints.md)
       + [Attributiemodellen](/help/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102 {#marketo-measure-102}
-      + [&#x200B; [!DNL Marketo Measure]  ROI dashboards](/help/onboarding/marketo-measure-102/roi-dashboards.md)
+      + [ [!DNL Marketo Measure]  ROI dashboards](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Stock Salesforce-rapporten](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [Aanvullende Salesforce-rapporten](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
-   + [!DNL Marketo Measure] en Salesforce {#marketo-measure-salesforce}
+   + [!DNL Marketo Measure] en Salesforce{#marketo-measure-salesforce}
       + [Leads per ID-rapport](/help/onboarding/marketo-measure-salesforce/leads-by-id-report.md)
       + [Kanalen en subkanalen maken](/help/onboarding/marketo-measure-salesforce/creating-channels-subchannels.md)
       + [Kanaalregels instellen met een CSV-profiel](/help/onboarding/marketo-measure-salesforce/channel-rules-csv.md)
       + [Campagneobjectvelden](/help/onboarding/marketo-measure-salesforce/campaign-object-fields.md)
       + [Offlinekanalen toewijzen](/help/onboarding/marketo-measure-salesforce/mapping-offline-channels.md)
       + [Offline campagnes synchroniseren](/help/onboarding/marketo-measure-salesforce/syncing-offline-campaigns.md)
-   + Grondbeginselen {#fundamentals}
+   + Grondbeginselen{#fundamentals}
       + [Aanraakpuntonderdrukking](/help/onboarding/marketo-measure-salesforce/touchpoint-suppression.md)
       + [Activiteitentoewijzing](/help/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure] Detecteren {#marketo-measure-discover}
@@ -72,9 +72,9 @@ ht-degree: 3%
    + [ROI-dashboard detecteren](/help/marketo-measure-discover/2023-discover-roi-dashboard.md)
    + [Bepalen welk kanaal wordt uitgevoerd (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [Bepalen welk kanaal wordt uitgevoerd (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
-   + [Rapportage van personeel vaststellen (PT.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
+   + [Funnel-rapportage ontdekken (PT.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
 + Definities {#definitions}
-   + Aanraakpunten {#touchpoints}
+   + Aanraakpunten{#touchpoints}
       + [Wat is een aanraakpunt?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
       + [Mijlpunt-aanraakpunten](/help/definitions/touchpoints/milestone-touchpoints.md)
       + [Aanraakpuntcomponenten](/help/definitions/touchpoints/touchpoint-components.md)
@@ -93,8 +93,8 @@ ht-degree: 3%
       + [Object lead](/help/definitions/crm-objects/lead-object.md)
       + [Object Contact](/help/definitions/crm-objects/contact-object.md)
       + [Opportunity, object](/help/definitions/crm-objects/opportunity-object.md)
-      + [Object BT](/help/definitions/crm-objects/bt-object.md)
-      + [Object BAT](/help/definitions/crm-objects/bat-object.md)
+      + [BT-object](/help/definitions/crm-objects/bt-object.md)
+      + [BAT-object](/help/definitions/crm-objects/bat-object.md)
       + [Marketo Measure](/help/definitions/crm-objects/marketo-measure-person.md)
    + UTM-parameters {#utm-parameters}
       + [Hoe  [!DNL Marketo Measure]  het etiketteren werkt](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
@@ -108,15 +108,15 @@ ht-degree: 3%
       + [[!UICONTROL Accounts by Engagement Score]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
       + [[!UICONTROL Accounts with Leads and Contacts] -rapport](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
       + [[!UICONTROL Touchpoints per Account] -rapport](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
-   + Boomerang Stage {#boomerang-stage}
+   + Boemerang Stage {#boomerang-stage}
       + [Inleiding tot boemerang-stadia](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [Boemerangstadia instellen](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
 + Marketo Measure Ultimate {#marketo-measure-ultimate}
-   + [Marketo Measure Ultimate - overzicht](/help/marketo-measure-ultimate/overview.md)
-   + [Overzicht van Attribution AI](/help/marketo-measure-ultimate/attribution-ai-overview.md)
-+ Goeroe praat {#evangelist}
+   + [Marketo Measure Ultimate - Overzicht](/help/marketo-measure-ultimate/overview.md)
+   + [Overzicht AI-kenmerken](/help/marketo-measure-ultimate/attribution-ai-overview.md)
++ Evangelist praat {#evangelist}
    + [Marketingkenmerk en maatstaven](/help/evangelist-talks/attribution-and-metrics.md)
    + [Looptijd marketingtoewijzing](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [Toekenning en gegevenssilo&#39;s van marketing](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
-+ Actieve opnamen Experiencen League {#experience-league-live-recordings}
-   + [&#x200B; Marketo Measure Nieuwe ontdekt dashboards &#x200B;](https://experienceleague.adobe.com/nl/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
++ Experience League Live-opnamen{#experience-league-live-recordings}
+   + [ Marketo Measure Nieuwe ontdekt dashboards ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
