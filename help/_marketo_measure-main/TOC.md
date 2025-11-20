@@ -51,7 +51,7 @@ ht-degree: 4%
       + [Aanraakpunten](/help/onboarding/marketo-measure-101/touchpoints.md)
       + [Attributiemodellen](/help/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102 {#marketo-measure-102}
-      + [ [!DNL Marketo Measure]  ROI dashboards](/help/onboarding/marketo-measure-102/roi-dashboards.md)
+      + [&#x200B; [!DNL Marketo Measure]  ROI dashboards](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Stock Salesforce-rapporten](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [Aanvullende Salesforce-rapporten](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
@@ -119,4 +119,4 @@ ht-degree: 4%
    + [Looptijd marketingtoewijzing](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [Toekenning en gegevenssilo&#39;s van marketing](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
 + Experience League Live-opnamen{#experience-league-live-recordings}
-   + [ Marketo Measure Nieuwe ontdekt dashboards ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
+   + [&#x200B; Marketo Measure Nieuwe ontdekt dashboards &#x200B;](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
