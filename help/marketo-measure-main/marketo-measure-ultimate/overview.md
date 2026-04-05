@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Leer hoe de Marketo Measure Ultimate B2B-marketers gegevens kan verzamelen van vrijwel elke bron, inclusief meerdere bronnen van hetzelfde type, voor een grondige toewijzing. Dit geeft B2B-marketers toegang tot geavanceerde analyses en inzichten om hun marketingstrategieën te verbeteren en de groei van het bedrijf te stimuleren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433044/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446470/?captions=dut&learn=on)

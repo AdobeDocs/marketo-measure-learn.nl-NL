@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Dit verslag richt zich op het eerste tot middelste deel van de funnel voor het op de markt brengen. Zodra het rapport is opgesteld, zult u kunnen zien welke kanalen het meeste aantal kansen produceren, zodat kunt u beurtelings in die marketing kanalen investeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424433/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443746/?captions=dut&learn=on)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Deze video biedt een diepgaande uitleg van het W-vormige model.
 
->[!VIDEO](https://video.tv.adobe.com/v/347209/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432082/?captions=dut&learn=on){transcript=true}

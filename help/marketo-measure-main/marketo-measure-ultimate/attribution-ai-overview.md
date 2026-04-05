@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Ontdek hoe Adobe Attribution AI de B2B marketing meting verbetert met geavanceerd AI/ML modelleren, die nauwkeurige attributie inzichten aanbieden en biasen voor nauwkeurige analyse elimineren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433052/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447227/?captions=dut&learn=on)

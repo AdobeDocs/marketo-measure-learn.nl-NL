@@ -20,4 +20,4 @@ ht-degree: 0%
 
 In deze les wordt beschreven hoe u [!DNL Marketo Measure] -kanaalregels instelt met behulp van een CSV-bestand.
 
->[!VIDEO](https://video.tv.adobe.com/v/347237/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431558/?captions=dut&learn=on){transcript=true}

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Meer informatie over de relatie tussen [!DNL Marketo Measure] en het accountobject.
 
->[!VIDEO](https://video.tv.adobe.com/v/347222/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436086/?captions=dut&learn=on){transcript=true}

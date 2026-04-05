@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Leer meer over online kanalen, het creëren van kanalen, en het online kanaalwerkblad.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424422/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454154/?captions=dut&learn=on){transcript=true}

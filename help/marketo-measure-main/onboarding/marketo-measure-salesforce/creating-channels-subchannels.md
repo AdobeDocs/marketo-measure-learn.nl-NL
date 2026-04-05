@@ -20,4 +20,4 @@ ht-degree: 0%
 
 In deze les wordt uitgelegd hoe u kanaal- en subkanaalhiërarchieën en namen in [!DNL Marketo Measure] maakt en behoudt.
 
->[!VIDEO](https://video.tv.adobe.com/v/347244/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431563/?captions=dut&learn=on){transcript=true}

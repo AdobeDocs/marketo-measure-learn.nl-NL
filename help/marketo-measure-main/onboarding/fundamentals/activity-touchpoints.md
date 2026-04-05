@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Overzicht van de activiteiteninstellingen in Marketo Measure. Hierin worden Marketo Engage- en CRM-activiteiten geëvalueerd.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424420/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453219/?captions=dut&learn=on){transcript=true}

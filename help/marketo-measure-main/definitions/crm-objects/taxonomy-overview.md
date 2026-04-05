@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Bekijk een overzicht van de manier waarop [!DNL Marketo Measure] gegevens verzamelt en verwerkt met behulp van verschillende invoer voor het verschaffen van attributiegegevens.
 
->[!VIDEO](https://video.tv.adobe.com/v/347177/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432028/?captions=dut&learn=on){transcript=true}

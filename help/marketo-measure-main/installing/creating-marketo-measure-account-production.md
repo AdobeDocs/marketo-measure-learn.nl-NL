@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u de [!DNL Marketo Measure] -account kunt maken en advertentieplatforms (productie-instantie) kunt verbinden.
 
->[!VIDEO](https://video.tv.adobe.com/v/347196/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431536/?captions=dut&learn=on){transcript=true}
