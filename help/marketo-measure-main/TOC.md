@@ -51,7 +51,7 @@ ht-degree: 1%
       + [Aanraakpunten](/help/marketo-measure-main/onboarding/marketo-measure-101/touchpoints.md)
       + [Attributiemodellen](/help/marketo-measure-main/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102 {#marketo-measure-102}
-      + [ [!DNL Marketo Measure]  ROI dashboards](/help/marketo-measure-main/onboarding/marketo-measure-102/roi-dashboards.md)
+      + [&#x200B; [!DNL Marketo Measure]  ROI dashboards](/help/marketo-measure-main/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Stock Salesforce-rapporten](/help/marketo-measure-main/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [Aanvullende Salesforce-rapporten](/help/marketo-measure-main/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse](/help/marketo-measure-main/onboarding/marketo-measure-102/data-warehouse.md)
