@@ -26,6 +26,6 @@ Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en 
 
 ## Experience League Live-gebeurtenissen
 
-* **[Marketo Measure New Discover Dashboards](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
+* **[Marketo Measure New Discover Dashboards](https://experienceleague.adobe.com/nl/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
   *leer over nieuwe, volledig vernieuwde Discover Dashboards.*
 
